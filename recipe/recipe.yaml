@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.1.3"
+  version: "1.1.4"
   python_min: "3.11"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/dailyerosion/dailyerosion-${{ version }}.tar.gz
-  sha256: 5e007ec80023b5e6363596824f4b7009e6cea6a3407248707b00be0adea61c25
+  sha256: cef42d1dcffee04c7d2bb27dfc0edc3e68248d92fc7ef158da5738eacda704a3
 
 build:
   number: 0
