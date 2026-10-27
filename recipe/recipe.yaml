@@ -26,13 +26,13 @@ requirements:
   run:
     - python >=${{ python_min }}
     - gdal >=3.10
-    - httpx
     - numpy
     - pandas
     - pika
     - pydantic
     - pyiem >=1.25.0
     - rasterio
+    - requests
     - scipy
     - sqlalchemy
     - tqdm
